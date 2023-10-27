@@ -1,3 +1,6 @@
-# Grpc_Assignment_1
+# GRPC_Assignment_
 
-Implementing Sign-in & Sign-up system with Grpc in Java
+## New user register create
+## Log in account
+## Create new user profile
+## Update user Information
